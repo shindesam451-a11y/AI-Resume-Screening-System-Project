@@ -39,6 +39,7 @@ To build an intelligent system that helps recruiters and organizations efficient
 3. Convert resume and job description into numerical vectors
 4. Compute similarity using cosine similarity
 5. Display match score and skill comparison
+<img width="1891" height="821" alt="Screenshot 2026-04-10 135103" src="https://github.com/user-attachments/assets/d49d831e-259b-454c-baad-dfbf084aad8b" />
 
 ---
 
