@@ -1,6 +1,7 @@
-# AI Resume Screening System
+🤖 AI Resume Screening System
+📌 Project Overview
 
-An intelligent resume screening application that uses machine learning to match resumes against job descriptions and calculate similarity scores.
+The AI Resume Screening System is a machine learning-based application that automates the process of evaluating resumes against job descriptions. It uses Natural Language Processing (NLP) techniques to analyze resume content and match it with required skills, providing a similarity score and actionable insights.
 
 ## Features
 
