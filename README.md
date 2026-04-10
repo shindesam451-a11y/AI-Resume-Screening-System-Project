@@ -56,6 +56,9 @@ The application will open in your browser at `http://localhost:8501`
 3. Click "Screen Resume" button
 4. View the match score and similarity analysis
 
+<img width="1891" height="821" alt="Screenshot 2026-04-10 135103" src="https://github.com/user-attachments/assets/3d87b5ff-47de-45a8-8b3a-529cb57ef5b4" />
+
+
 ## How It Works
 
 ### Algorithm
@@ -68,6 +71,8 @@ The application will open in your browser at `http://localhost:8501`
 - **80-100%:** ✅ Excellent match
 - **60-79%:** ⚠️ Good match, may need review
 - **Below 60%:** ❌ Poor match, consider other candidates
+
+<img width="1812" height="852" alt="Screenshot 2026-04-10 135039" src="https://github.com/user-attachments/assets/77deb5e7-c148-4ea3-86ae-c5342eb3dc0e" />
 
 ## Dependencies
 
